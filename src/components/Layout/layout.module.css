@@ -1,0 +1,20 @@
+.headerLogo {
+    z-index: 9999;
+    position: absolute;
+    width: 160 px;
+    height: 36.54px;
+    left: 130px;
+    top: 84px;
+}
+
+.layout {
+    z-index: 1000;
+}
+
+.header {
+    width: 1169px;
+    height: 44px;
+    top: 60px;
+    gap: 0px;
+    opacity: 0px;
+}

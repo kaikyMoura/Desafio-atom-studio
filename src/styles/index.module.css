@@ -1,0 +1,153 @@
+.container {
+    width: 100%;
+    height: 587px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #290742;
+
+}
+
+.containerSecond {
+    width: 100%;
+    height: 1196px;
+    gap: 0px;
+    top: 592px;
+    opacity: 0px;
+    background-color: #ffffff;
+}
+
+.postOne {
+    height: 546.09px;
+}
+
+.sidePosts {
+    position: relative;
+    width: 472px;
+    left: 835px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.bottomPosts {
+    width: 100%;
+}
+
+.codeImg {
+    position: absolute;
+    width: 570px;
+    height: 346px;
+    top: 172px;
+    left: 730px;
+    gap: 0px;
+    border-radius: 8px 0px 0px 0px;
+    opacity: 0px;
+}
+
+.notebookImg {
+    position: relative;
+    width: 569px;
+    height: 342.43px;
+    top: 100px;
+    left: 126px;
+    gap: 0px;
+    border-radius: 8px 0px 0px 0px;
+    opacity: 0px;
+
+}
+
+.developerImg {
+    position: relative;
+    width: 370px;
+    height: 259.57px;
+    margin-top: 26em;
+    left: 126px;
+    gap: 0px;
+    border-radius: 8px 0px 0px 0px;
+    opacity: 0px;
+
+}
+
+.screenImg {
+    position: relative;
+    width: 370px;
+    height: 259.57px;
+    margin-top: 26em;
+    left: 534px;
+    gap: 0px;
+    border-radius: 8px 0px 0px 0px;
+    opacity: 0px;
+
+}
+
+.smartPhoneImg {
+    position: relative;
+    width: 370px;
+    height: 259.57px;
+    margin-top: 26em;
+    left: 938px;
+    gap: 0px;
+    border-radius: 8px 0px 0px 0px;
+    opacity: 0px;
+
+}
+
+.firstTitle {
+    position: relative;
+    width: 569px;
+    height: 162px;
+    top: 172px;
+    left: 130px;
+    gap: 0px;
+    opacity: 0px;
+    color: #9E6DC2;
+
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+    text-align: left;
+
+}
+
+.retangle {
+    position: absolute;
+    width: 100%;
+    height: 6px;
+    top: 582px;
+    gap: 0px;
+
+    background-color: #4FFF4B;
+}
+
+.firstParagraph {
+    position: relative;
+    width: 469px;
+    height: 82px;
+    top: 200px;
+    left: 130px;
+    gap: 0px;
+    opacity: 0px;
+
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: left;
+
+    color: #FBF6FF;
+}
+
+.arrowRight {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    font-weight: 700;
+    /* top: 469px;
+    left: 210px; */
+    gap: 0px;
+    opacity: 0px;
+
+    color: #4FFF4B;
+
+}
